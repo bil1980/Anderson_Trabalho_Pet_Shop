@@ -1,3 +1,5 @@
+TEMA - PET SHOP  🐾
+
 📌 Descrição
 
     Este projeto foi desenvolvido como trabalho acadêmico da disciplina de Banco de Dados, com o objetivo de aplicar conceitos de modelagem relacional e integração com uma aplicação externa.
