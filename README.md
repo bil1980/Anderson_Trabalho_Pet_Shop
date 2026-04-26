@@ -2,6 +2,8 @@
 
     Este projeto foi desenvolvido como trabalho acadêmico da disciplina de Banco de Dados, com o objetivo de aplicar conceitos de modelagem relacional e integração com uma aplicação externa.
 
+  -> Nos diagramas,é uma base das ideias  de tabelas e colunas que apresento nos prints na pasta DDL, contentendo alguns erros de praticidade que         corrijo a seguir na pasta de DML com várias inserçoes e updates para melhorar o resultado final, e na DQL faço consultas para apresentar alguns       exemplos das tabelas definitivas.
+
 
 👨‍🏫 Informações Acadêmicas
 
